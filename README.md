@@ -1,3 +1,3 @@
-FooCoin (FOO)
+OccomCoin (OCCOM)
 
 Blah, blah, blah.
